@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Riski Ananda</h1>
-<h3 align="center">A passionate frontend developer from Jepara</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 - 💬 Ask me about **React Native, Next Js, React Js**
 
